@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pdu:home|Door43 (pdu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pdu|d43-pdu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pdu/archive/master.zip|d43-pdu.zip]]
+
+**Recent Changes**
+{{changes>ns = pdu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pdu|Ethnologue data]]
+
